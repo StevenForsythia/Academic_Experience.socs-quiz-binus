@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663218800 source:c:\programming example\project\socs binus quiz\socs-quiz-d\main.c
+	<stdio.h>
+	<stdlib.h>
+
